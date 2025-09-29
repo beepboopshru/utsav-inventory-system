@@ -18,7 +18,7 @@ export default function Landing() {
         {/* TODO: landing page goes here; replace with the landing page */}
         <div className="flex justify-center">
           <img
-            src="./logo.svg"
+            src="/logo.svg"
             alt="Lock Icon"
             width={64}
             height={64}
